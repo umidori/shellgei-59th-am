@@ -67,7 +67,7 @@ function is_float(s)
 		end
 		if state < 0
 			break
-        end
+		end
 	end
 
 	state == 3 || state == 4 || state == 7
